@@ -1,7 +1,7 @@
 # ¡Bienvenido a Sigma-Tau!
 
-[![example workflow](https://github.com/fralfaro/agency-website/actions/workflows/documentation.yml/badge.svg)](https://github.com/fralfaro/agency-website/actions)
-[![documentation](https://img.shields.io/badge/🌐-website-blue)](https://fralfaro.github.io/agency-website/)
+[![example workflow](https://github.com/Sigma-Tau/agency-website/actions/workflows/documentation.yml/badge.svg)](https://github.com/Sigma-Tau/agency-website/actions)
+[![documentation](https://img.shields.io/badge/🌐-website-blue)](https://Sigma-Tau.github.io/agency-website/)
 
 Soluciones Basadas en Inteligencia Artificial que Optimizarán el Rendimiento de tu Compañía.
 
