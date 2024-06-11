@@ -275,14 +275,7 @@ es: &DEFAULT_ES
             icon: fab fa-github
           - url: https://www.linkedin.com/in/faam/
             icon: fab fa-linkedin-in
-      - name: "Francisco Benavides"
-        role: "Chief AI Officer"
-        image: assets/img/team/fbenavides.jpg
-        social:
-          - url: https://github.com/fbenav
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/francisco-benavides-653544a9/
-            icon: fab fa-linkedin-in
+
 
   contact:
     title: "Contáctenos"
